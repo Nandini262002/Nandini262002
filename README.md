@@ -1,6 +1,6 @@
 
 
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Nandini</h1>
 <h3 align="center">Embarking on journey as a Data Analyst</h3>
 
